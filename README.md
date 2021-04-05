@@ -10,8 +10,8 @@ This small project is an API to manage checkout card, the libraries below was us
 ## Content of project  
 * module folder: Contains card class  
 * reports:  Contains unit test report
-* tests:  Contains tests to be lanched for card class and API
-* app.py:  Main file and contains routes
+* tests:  Contains tests to be launched for card class and API
+* app.py:  Main file contains routes
 * pytest.ini file:  a configuration file for pytest
 * requirements.txt file:  Contains librairies required for this project
 

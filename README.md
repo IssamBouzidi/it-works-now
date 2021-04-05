@@ -17,4 +17,4 @@ This small project is an API to manage checkout card, the libraries below was us
 
 ## How to execute unit tests
 Please use the command below to execute unit test, a test report `report.html` will be generated in the reports folder  
-`pytest --html=report.html --self-contained-html`  
+`pytest --html=reports/report.html --self-contained-html`  
